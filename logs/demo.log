@@ -1,0 +1,20 @@
+*[ERROR]-- Cannot set level 'ALL' for 'org.springframework'--
+*[ERROR]-- Cannot set level 'ALL' for 'com.example.demo.controller'--
+*[INFO ]-- Starting DemoApplication on GSS431 with PID 1436 (E:\swetha\springboot\demo\target\classes started by trainee in E:\swetha\springboot\demo)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Bootstrapping Spring Data repositories in DEFAULT mode.--
+*[INFO ]-- Finished Spring Data repository scanning in 125ms. Found 1 repository interfaces.--
+*[INFO ]-- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$53d87091] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)--
+*[INFO ]-- Tomcat initialized with port(s): 8090 (http)--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;E:\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Trainee.KGISL\AppData\Local\Microsoft\WindowsApps;C:\Users\Trainee.KGISL\AppData\Local\Programs\Git\cmd;C:\Users\Trainee.KGISL\AppData\Roaming\npm;C:\Users\Trainee.KGISL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Trainee.KGISL\.dotnet\tools;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- Root WebApplicationContext: initialization completed in 6309 ms--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Initialized JPA EntityManagerFactory for persistence unit 'default'--
+*[INFO ]-- Initializing ExecutorService 'applicationTaskExecutor'--
+*[WARN ]-- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning--
+*[INFO ]-- Tomcat started on port(s): 8090 (http) with context path ''--
+*[INFO ]-- Started DemoApplication in 15.536 seconds (JVM running for 25.054)--
